@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+*.npy
+*.pt
+*.pth
+*.ckpt
+
+.DS_Store
+
+processed_data/
+trained_med3d_models/
+plots/
+heatmaps/
