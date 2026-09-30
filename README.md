@@ -59,6 +59,8 @@ All analyses reported in the manuscript can be reproduced using the scripts prov
 
 If you use this code, please cite:
 
+CaminhoDaVictoria. (2026). CaminhoDaVictoria/brain-age-estimation-ct: Initial public release (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23066012
+
 ## License
 
 This project is licensed under the MIT License.
